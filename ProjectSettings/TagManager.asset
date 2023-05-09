@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CM vcam1
+  - EnemySpawner
+  - Boss
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Edge
+  - Enemies
+  - CameraBound
+  - Player
+  - EnemySpawner
+  - Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4136995887
+    locked: 0
+  - name: MidgroundBack
+    uniqueID: 2960591027
+    locked: 0
+  - name: MidgroundFront
+    uniqueID: 2039222573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fog
+    uniqueID: 3365610919
+    locked: 0
+  - name: Foreground
+    uniqueID: 4097367365
+    locked: 0
+  - name: Player
+    uniqueID: 881255665
+    locked: 0
+  - name: EnemySpawner
+    uniqueID: 822387851
+    locked: 0
+  - name: Enemies
+    uniqueID: 2760544309
+    locked: 0
+  - name: Boss
+    uniqueID: 4041195435
+    locked: 0
+  - name: Bullet
+    uniqueID: 2465813809
+    locked: 0
+  - name: Bullets
+    uniqueID: 287421753
+    locked: 0
+  - name: Camera
+    uniqueID: 1051645317
+    locked: 0
+  - name: Rain
+    uniqueID: 3348736571
+    locked: 0
