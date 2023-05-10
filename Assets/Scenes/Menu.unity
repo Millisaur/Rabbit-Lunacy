@@ -1525,7 +1525,7 @@ MonoBehaviour:
     loop: 1
     source: {fileID: 0}
   - name: StartButton
-    clip: {fileID: 8300000, guid: c616d4702c6cc394fa8054b10a3b1099, type: 3}
+    clip: {fileID: 8300000, guid: 8684469bd393be34bb2300e60e13575f, type: 3}
     volume: 0.604
     pitch: 1
     loop: 0
