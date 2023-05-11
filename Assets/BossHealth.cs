@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BossHealth : MonoBehaviour
 {
-    public int health = 500;
+    public int health = 1000;
 	public GameManagerScript gameManager;
 
     // public GameObject deathEffect;
@@ -32,7 +32,7 @@ public class BossHealth : MonoBehaviour
         {
             Die();
         }
-        else if (health <= 250 && !isEnraged) // health below 50%
+        else if (health <= 500 && !isEnraged) // health below 50%
         {
 			FindObjectOfType<AudioManager>().Play("BossRage");
 			bossWeapon.difficulty1 = 2.5f;

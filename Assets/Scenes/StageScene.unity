@@ -15027,7 +15027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e75c6fb46d850744ae89d016f671e7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 500
+  health: 1000
   gameManager: {fileID: 77935750}
   damage: 1
   animator: {fileID: 907361657}
@@ -23150,8 +23150,14 @@ MonoBehaviour:
     loop: 1
     source: {fileID: 0}
   - name: VictoryTheme
+    clip: {fileID: 8300000, guid: 5716ff60f597b3448832459edb1a6a4d, type: 3}
+    volume: 0.498
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: GameOver
     clip: {fileID: 8300000, guid: 40c2e2d13dde537449bd762ce04b70f8, type: 3}
-    volume: 0.315
+    volume: 0.23
     pitch: 1
     loop: 1
     source: {fileID: 0}
