@@ -23139,103 +23139,103 @@ MonoBehaviour:
   sounds:
   - name: StageTheme
     clip: {fileID: 8300000, guid: 80c123543b8acae45ad9d3212c27fc7e, type: 3}
-    volume: 0.695
+    volume: 1
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: BossTheme
     clip: {fileID: 8300000, guid: 338973f46b040474aa39e0e007806721, type: 3}
-    volume: 0.7
+    volume: 1
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: VictoryTheme
     clip: {fileID: 8300000, guid: 5716ff60f597b3448832459edb1a6a4d, type: 3}
-    volume: 0.498
+    volume: 0.805
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: GameOver
     clip: {fileID: 8300000, guid: 40c2e2d13dde537449bd762ce04b70f8, type: 3}
-    volume: 0.23
+    volume: 0.3
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: PlayerDeath
     clip: {fileID: 8300000, guid: 55c41257744f75c42ada29c83044ca01, type: 3}
-    volume: 0.496
+    volume: 0.6
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: PlayerHurt
     clip: {fileID: 8300000, guid: c9380abae22dbb3448006ca0135d7e18, type: 3}
-    volume: 0.797
+    volume: 0.9
     pitch: 0.59
     loop: 0
     source: {fileID: 0}
   - name: PlayerJump
     clip: {fileID: 8300000, guid: cd30e88c60ca26448976277ee9239c99, type: 3}
-    volume: 0.206
+    volume: 0.3
     pitch: 2.14
     loop: 0
     source: {fileID: 0}
   - name: PlayerShoot
     clip: {fileID: 8300000, guid: 06ada5590eba8d6489b36c6f3c54ff78, type: 3}
-    volume: 0.4
+    volume: 0.5
     pitch: 1.59
     loop: 0
     source: {fileID: 0}
   - name: HealthUp
     clip: {fileID: 8300000, guid: 361e72f2626cb35499fa25d053c5af7c, type: 3}
-    volume: 0.19
+    volume: 0.3
     pitch: 1.11
     loop: 0
     source: {fileID: 0}
   - name: BulletImpact
     clip: {fileID: 8300000, guid: 35e6cf05ee2002640a25da170d116b17, type: 3}
-    volume: 0.62
+    volume: 0.7
     pitch: 2.3
     loop: 0
     source: {fileID: 0}
   - name: BunnyHop
     clip: {fileID: 8300000, guid: 2b6d50c7c9af2d34d8530ac52e9f31bc, type: 3}
-    volume: 0.203
+    volume: 0.3
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: BunnyDeath
     clip: {fileID: 8300000, guid: 85ebeef475ac2c34b87156649a4a55cd, type: 3}
-    volume: 0.7
+    volume: 0.8
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: BossLaugh
     clip: {fileID: 8300000, guid: e92342313dcc0b04db190b857e1735ac, type: 3}
-    volume: 0.169
+    volume: 0.25
     pitch: 1.56
     loop: 0
     source: {fileID: 0}
   - name: BossRage
     clip: {fileID: 8300000, guid: 4b72eca8c5f94cb41b114f35568dfe2c, type: 3}
-    volume: 0.388
+    volume: 0.5
     pitch: 1.3
     loop: 0
     source: {fileID: 0}
   - name: BossDeath
     clip: {fileID: 8300000, guid: d5d27ed4cb848af4db7b16ad8f112988, type: 3}
-    volume: 0.463
+    volume: 0.55
     pitch: 1.01
     loop: 0
     source: {fileID: 0}
   - name: BossShoot
     clip: {fileID: 8300000, guid: 06ada5590eba8d6489b36c6f3c54ff78, type: 3}
-    volume: 0.463
+    volume: 0.55
     pitch: 0.82
     loop: 0
     source: {fileID: 0}
   - name: BossHop
     clip: {fileID: 8300000, guid: 2b6d50c7c9af2d34d8530ac52e9f31bc, type: 3}
-    volume: 0.211
+    volume: 0.35
     pitch: 2
     loop: 0
     source: {fileID: 0}

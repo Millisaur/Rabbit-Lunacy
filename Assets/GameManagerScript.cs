@@ -58,6 +58,9 @@ public class GameManagerScript : MonoBehaviour
 
     public void gameOver()
     {
+        FindObjectOfType<AudioManager>().Stop("StageTheme");
+        FindObjectOfType<AudioManager>().Stop("BossTheme");
+        FindObjectOfType<AudioManager>().Play("GameOver");
         gameOverUI.SetActive(true);
     }
 

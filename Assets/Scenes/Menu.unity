@@ -1695,25 +1695,25 @@ MonoBehaviour:
   sounds:
   - name: MenuTheme
     clip: {fileID: 8300000, guid: f6a5f44357c1c104cb1bea3057cb6407, type: 3}
-    volume: 0.703
+    volume: 1
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: StartButton
     clip: {fileID: 8300000, guid: 8684469bd393be34bb2300e60e13575f, type: 3}
-    volume: 0.604
+    volume: 0.7
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: QuitButton
     clip: {fileID: 8300000, guid: 3e2c47f30e9d25744a65bc3bdbfd67e7, type: 3}
-    volume: 0.604
+    volume: 0.7
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: MiscButton
     clip: {fileID: 8300000, guid: 77f6f9f884a31b64ea13a882d706a798, type: 3}
-    volume: 0.604
+    volume: 0.7
     pitch: 1
     loop: 0
     source: {fileID: 0}
@@ -2328,7 +2328,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 102.1072, y: 63.817}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1569671555
 MonoBehaviour:
