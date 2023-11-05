@@ -5,7 +5,7 @@ Small 2D platformer made with Unity. Goal is to make it to the end of the level 
 
 ## Gameplay link:
  
-[![Video Thumbnail](https://i9.ytimg.com/vi/F0eX6oMyhIU/mq1.jpg?sqp=CJStmaoG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGG4gJih_MA8=&rs=AOn4CLChsR-1Rfu7IpJSIat5hM-lL8EhPg)](https://youtu.be/F0eX6oMyhIU)
+[![Video Thumbnail](https://i9.ytimg.com/vi_webp/F0eX6oMyhIU/mq1.webp?sqp=CMzRnaoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGG4gJyh_MA8=&rs=AOn4CLBfoUUftlp5KXKlchzhRIoU39V9sg)](https://youtu.be/F0eX6oMyhIU)
 
 
 
