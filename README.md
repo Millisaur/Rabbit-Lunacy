@@ -5,7 +5,7 @@ Small 2D platformer made with Unity. Goal is to make it to the end of the level 
 
 ## Gameplay link:
  
-[![Video Thumbnail](https://i9.ytimg.com/vi_webp/F0eX6oMyhIU/mq1.webp?sqp=CMzRnaoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGG4gJyh_MA8=&rs=AOn4CLBfoUUftlp5KXKlchzhRIoU39V9sg)](https://youtu.be/F0eX6oMyhIU)
+[![Video Thumbnail](https://github.com/TTalvenH/project_thumbnails/blob/master/RabbitLunacy.png?raw=true)](https://youtu.be/F0eX6oMyhIU)
 
 
 
