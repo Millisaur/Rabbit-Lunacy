@@ -1,5 +1,6 @@
 # Rabbit Lunacy
 Small 2D platformer made with Unity. Goal is to make it to the end of the level and beat the evil bunnies!
+
 In this project, i handled programming the scripts and some visual effects like lighting and particle effects.
 
     
